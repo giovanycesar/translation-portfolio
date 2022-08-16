@@ -1,0 +1,1088 @@
+﻿1
+00:00:00,001 --> 00:00:01,940
+- Eu li um artigo na Forbes outro dia
+
+2
+00:00:01,940 --> 00:00:03,531
+que me irritou um pouco,
+
+3
+00:00:03,556 --> 00:00:06,336
+mas eu não ia fazer
+um vídeo sobre isso,
+
+4
+00:00:06,361 --> 00:00:09,946
+pelo menos não até
+vários outros como esse
+
+5
+00:00:09,946 --> 00:00:11,704
+aparecerem no meu feed de notícias.
+
+6
+00:00:11,729 --> 00:00:13,754
+O autor escreveu um artigo de opinião
+
+7
+00:00:13,779 --> 00:00:17,419
+zombando das rodas de $ 700
+que a Apple recentemente
+
+8
+00:00:17,444 --> 00:00:19,994
+colocou à venda para sua estação
+de trabalho Mac Pro
+
+9
+00:00:20,019 --> 00:00:21,713
+como, com falta de assimilação,
+
+10
+00:00:21,738 --> 00:00:26,322
+um produto ruim para os consumidores
+e um fracasso cara.
+
+11
+00:00:26,322 --> 00:00:31,170
+O autor contrasta o preço
+com o preço sugerido do Mac Pro
+
+12
+00:00:31,195 --> 00:00:33,750
+e com uma variedade
+de outros produtos da Apple
+
+13
+00:00:33,775 --> 00:00:35,804
+que você pode comprar
+por uma quantia alta de dinheiro,
+
+14
+00:00:35,829 --> 00:00:38,717
+achando absurdo que algo
+tão simples como rodas
+
+15
+00:00:38,718 --> 00:00:42,090
+para ajudar seu Mac
+a rolar pode custar tanto.
+
+16
+00:00:42,090 --> 00:00:44,990
+Eu concordo com tudo isso,
+nada disso me irritou.
+
+17
+00:00:44,990 --> 00:00:47,642
+O Sr.Spence está certo,
+é absurdo,
+
+18
+00:00:47,667 --> 00:00:52,204
+mas acho que ele também
+está ajudando a Apple
+
+19
+00:00:52,204 --> 00:00:53,609
+reclamando disso.
+
+20
+00:00:53,609 --> 00:00:55,735
+Vamos discutir, vamos discutir
+como esse vídeo
+
+21
+00:00:55,760 --> 00:00:57,049
+é trazido a você pela Ridge Wallet.
+
+22
+00:00:57,049 --> 00:00:58,547
+A Ridge Wallet deseja
+redefinar a carteira
+
+23
+00:00:58,572 --> 00:01:01,341
+com sua estrutura compacta
+e placas internas de bloqueio de RFID.
+
+24
+00:01:01,366 --> 00:01:03,469
+Confira como você pode
+manter a carteira cheia,
+
+25
+00:01:03,469 --> 00:01:05,709
+usando o código de oferta
+linus para economizar 10%
+
+26
+00:01:05,709 --> 00:01:08,187
+e obter frete grátis em todo
+o mundo no link abaixo.
+
+27
+00:01:14,911 --> 00:01:16,168
+{\an8}Dicas Técnicas da Linus:
+
+28
+00:01:16,168 --> 00:01:17,869
+{\an8}Continue rolando, rolando,
+rolando...VAMOS LÁ!
+
+29
+00:01:17,870 --> 00:01:21,189
+Isso não é singular, o ciclo está
+acontecendo para sempre.
+
+30
+00:01:21,189 --> 00:01:23,099
+A Apple faz algo absurdo,
+
+31
+00:01:23,099 --> 00:01:26,346
+a comunidade reage
+com adoração ou reprovação,
+
+32
+00:01:26,371 --> 00:01:28,372
+dependendo de quais marcas
+eles preferem,
+
+33
+00:01:28,397 --> 00:01:30,332
+então a Apple recebe
+todo esse feedback
+
+34
+00:01:30,357 --> 00:01:32,590
+e não muda absolutamente nada.
+
+35
+00:01:32,590 --> 00:01:34,010
+Nos últimos cinco anos,
+
+36
+00:01:34,010 --> 00:01:35,390
+fomos tratados com o seguinte,
+
+37
+00:01:35,390 --> 00:01:38,900
+a Apple Watch de primeira geração,
+em ouro maciço,
+
+38
+00:01:38,925 --> 00:01:42,192
+que custava de $ 10
+a $ 17.000 para um produto
+
+39
+00:01:42,217 --> 00:01:44,550
+que se transformou em um enfeite
+apenas três anos depois,
+
+40
+00:01:44,575 --> 00:01:46,134
+quando abandonaram
+o suporte de software.
+
+41
+00:01:46,159 --> 00:01:49,798
+Houve o PictureBook que levou
+oito anos para ser criado,
+
+42
+00:01:49,798 --> 00:01:51,261
+custou de $ 200 a $ 300
+
+43
+00:01:51,286 --> 00:01:54,309
+e não serviu a nada além
+de comercializar os produtos da Apple
+
+44
+00:01:54,334 --> 00:01:55,881
+para visitantes em sua casa.
+
+45
+00:01:55,906 --> 00:01:58,559
+Até nós zombamos dessa vez.
+
+46
+00:01:58,560 --> 00:02:02,441
+E não vamos esquecer o suporte
+para monitor de $ 1.000.
+
+47
+00:02:02,466 --> 00:02:04,870
+- $ 999 e, como o Mac Pro,
+
+48
+00:02:04,895 --> 00:02:07,845
+todos estarão disponíveis no outono.
+
+49
+00:02:07,870 --> 00:02:10,530
+- É como outros monitores,
+
+50
+00:02:10,530 --> 00:02:12,370
+exceto pelo fato de trocar
+recursos básicos,
+
+51
+00:02:12,370 --> 00:02:16,625
+como giro e ajuste de altura,
+por mais magia.
+
+52
+00:02:16,650 --> 00:02:18,810
+Todos esses produtos
+foram criados para atender
+
+53
+00:02:18,810 --> 00:02:20,189
+a vários propósitos,
+
+54
+00:02:20,189 --> 00:02:21,889
+o primeiro e mais óbvio
+
+55
+00:02:21,889 --> 00:02:25,399
+é trocá-los por dinheiro
+de pessoas que os desejam,
+
+56
+00:02:25,400 --> 00:02:27,937
+com fins lucrativos, mas a questão é:
+
+57
+00:02:27,937 --> 00:02:30,660
+Quantos deles a Apple esperaria vender?
+
+58
+00:02:30,685 --> 00:02:33,444
+Isso não seria suficiente
+para justificar sua existência.
+
+59
+00:02:33,469 --> 00:02:37,069
+Para chegar à raiz do por que
+eles são tão caros,
+
+60
+00:02:37,069 --> 00:02:39,125
+precisamos ir uma camada mais fundo.
+
+61
+00:02:39,125 --> 00:02:43,194
+Algo que cada um dos produtos
+que listei tem em comum
+
+62
+00:02:43,194 --> 00:02:46,949
+é que é a própria definição
+de um item de luxo.
+
+63
+00:02:46,949 --> 00:02:51,949
+Literalmente, ninguém na Terra
+precisa de nenhum deles.
+
+64
+00:02:52,632 --> 00:02:54,609
+Rodas de computador,
+por exemplo,
+
+65
+00:02:54,634 --> 00:02:56,294
+o Mac Pro não pode operar
+
+66
+00:02:56,319 --> 00:02:57,939
+a menos que esteja conectado à parede.
+
+67
+00:02:57,939 --> 00:03:00,821
+Portanto, mesmo se você quisesse
+movê-lo enquanto o usava,
+
+68
+00:03:00,846 --> 00:03:02,878
+na verdade não poderia.
+
+69
+00:03:02,903 --> 00:03:04,735
+Certo, então o Sr.Spence realmente
+
+70
+00:03:04,760 --> 00:03:06,670
+falou disso em seu artigo.
+
+71
+00:03:06,669 --> 00:03:08,780
+A razão número dois é que produtos
+
+72
+00:03:08,780 --> 00:03:11,710
+que são tão desnecessários quanto caros
+
+73
+00:03:11,710 --> 00:03:15,340
+servem para criar uma percepção
+de escassez e prestígio
+
+74
+00:03:15,340 --> 00:03:18,393
+que é incrivelmente valiosa
+para as marcas de consumo,
+
+75
+00:03:18,418 --> 00:03:21,659
+porque a verdade é que
+os produtos da Apple
+
+76
+00:03:21,659 --> 00:03:24,861
+pelo valor nominal não são
+escassos nem prestigiosos.
+
+77
+00:03:24,861 --> 00:03:28,004
+Ande pela escola e...
+tudo bem,
+
+78
+00:03:28,029 --> 00:03:30,181
+está vazio agora por causa do COVID,
+
+79
+00:03:30,206 --> 00:03:33,349
+mas se não estivesse,
+todo mundo e sua irmãzinha
+
+80
+00:03:33,349 --> 00:03:37,046
+estariam enviando mensagens
+de texto em um iPhone.
+
+81
+00:03:37,071 --> 00:03:39,599
+A Apple fabrica eletrônicos de consumo.
+
+82
+00:03:39,599 --> 00:03:43,250
+E sim, eles são caros, mas entre
+o mercado de segunda mão
+
+83
+00:03:43,250 --> 00:03:46,729
+e os subsídios às operadoras,
+até as crianças podem pagar um
+
+84
+00:03:46,729 --> 00:03:50,560
+se ficarem sem comida ou, digamos,
+com um rim por um tempo.
+
+85
+00:03:50,560 --> 00:03:52,551
+Embora não recomendo qualquer um desses.
+
+86
+00:03:52,576 --> 00:03:55,639
+E aqui está o problema,
+se você deseja ficar legal
+
+87
+00:03:55,639 --> 00:03:57,459
+como uma marca de símbolo de status,
+
+88
+00:03:57,460 --> 00:04:00,126
+é importante ter produtos em seu portfólio
+
+89
+00:04:00,151 --> 00:04:03,275
+que a maioria das pessoas
+realmente só poderá ver
+
+90
+00:04:03,300 --> 00:04:05,640
+nos estúdios de influenciadores
+
+91
+00:04:05,665 --> 00:04:07,869
+ou em uma posicionamento de produto na TV
+
+92
+00:04:07,894 --> 00:04:11,000
+ou levantando-se do sofá
+e indo à sua loja.
+
+93
+00:04:11,000 --> 00:04:13,354
+Estes são chamados produtos halo.
+
+94
+00:04:13,379 --> 00:04:17,035
+Vamos usar a linha de placas gráficas
+Titan da Nvidia como exemplo.
+
+95
+00:04:17,060 --> 00:04:21,563
+Um RTX Titan custa duas
+vezes mais que uma TI 2080,
+
+96
+00:04:21,588 --> 00:04:24,206
+enquanto o desempenho é quase idêntico.
+
+97
+00:04:24,231 --> 00:04:25,829
+E por que não, eu acho?
+
+98
+00:04:25,829 --> 00:04:28,300
+Se alguém é fanboy o suficiente
+
+99
+00:04:28,300 --> 00:04:30,730
+ou é ignorante o suficiente
+para lhe dar mais dinheiro
+
+100
+00:04:30,730 --> 00:04:32,626
+do que as outras pessoas podem pagar,
+
+101
+00:04:32,651 --> 00:04:34,984
+por que não deixá-lo fazer isso,
+
+102
+00:04:35,009 --> 00:04:38,339
+mas você também não vai gastar
+três bilhões de dólares
+
+103
+00:04:38,339 --> 00:04:41,209
+criando um produto que venderá tão poucos.
+
+104
+00:04:41,209 --> 00:04:44,099
+Você precisaria vendê-lo
+por duas ou três vezes mais
+
+105
+00:04:44,100 --> 00:04:45,730
+para justificar isso.
+
+106
+00:04:45,730 --> 00:04:48,618
+A Figura A, aqui, seria o preço
+da GPU corporativa,
+
+107
+00:04:48,643 --> 00:04:50,300
+e é por isso que a placa gráfica Titan
+
+108
+00:04:50,325 --> 00:04:52,365
+usa exatamente a mesma GPU,
+
+109
+00:04:52,390 --> 00:04:54,929
+mas possui apenas uma cobertura dourada.
+
+110
+00:04:54,954 --> 00:04:57,810
+A terceira e a menos óbvia razão
+pela qual eles fazem isso
+
+111
+00:04:57,835 --> 00:05:00,557
+é fazer com que as pessoas
+que não estão impressionadas com isso
+
+112
+00:05:00,582 --> 00:05:03,026
+falem sobre a Apple.
+
+113
+00:05:03,051 --> 00:05:06,931
+Todos conhecemos a expressão,
+não existe publicidade ruim.
+
+114
+00:05:06,956 --> 00:05:09,134
+Isso ocorre porque mesmo
+um artigo negativo
+
+115
+00:05:09,110 --> 00:05:11,112
+sobre as rodas supervalorizadas
+
+116
+00:05:11,112 --> 00:05:13,064
+serve para aumentar
+o fascínio do logotipo
+
+117
+00:05:13,089 --> 00:05:14,878
+e, ainda mais importante,
+
+118
+00:05:14,903 --> 00:05:17,513
+fornece à Apple uma exposição
+gratuita da marca
+
+119
+00:05:17,538 --> 00:05:20,240
+pela qual eles teriam que pagar.
+
+120
+00:05:20,240 --> 00:05:22,230
+Isso não apenas adicionaria espaço
+
+121
+00:05:22,230 --> 00:05:23,430
+no meu feed do Google Notícias
+
+122
+00:05:23,455 --> 00:05:24,968
+custando dinheiro à Apple,
+
+123
+00:05:24,993 --> 00:05:27,539
+mas também teria sido muito menos valioso.
+
+124
+00:05:27,564 --> 00:05:30,973
+Um artigo de opinião adequadamente
+construído contém ambos,
+
+125
+00:05:30,998 --> 00:05:35,434
+uma tese e informações de base
+equilibradas para apoiá-lo.
+
+126
+00:05:35,459 --> 00:05:37,774
+E como o Sr.Spence
+é um escritor profissional,
+
+127
+00:05:37,799 --> 00:05:40,939
+ele me forneceu alguns
+comentários negativos,
+
+128
+00:05:40,939 --> 00:05:42,569
+mas também alguns pontos positivos,
+
+129
+00:05:42,569 --> 00:05:44,909
+referindo-se ao Mac Pro como incrível,
+
+130
+00:05:44,934 --> 00:05:48,637
+destacando o preço relativamente
+mais razoável de $ 400
+
+131
+00:05:48,662 --> 00:05:50,810
+se você comprou as rodas no começo
+
+132
+00:05:50,810 --> 00:05:55,363
+e aponte o valor de alguns
+dos outros produtos da Apple
+
+133
+00:05:55,388 --> 00:05:58,942
+se você tivesse $ 700 para gastar
+com aparelhos luxuosos.
+
+134
+00:05:58,967 --> 00:06:01,294
+Boa sorte em divulgar
+todas essas informações
+
+135
+00:06:01,319 --> 00:06:04,120
+em um de seus anúncios de TV, Apple.
+
+136
+00:06:04,120 --> 00:06:05,952
+Ou espere, isso não seria necessário,
+
+137
+00:06:05,977 --> 00:06:08,590
+a Forbes e todo mundo
+já fizeram isso por você,
+
+138
+00:06:08,615 --> 00:06:09,874
+sua espertinha.
+
+139
+00:06:09,899 --> 00:06:12,319
+Enfim, a pergunta mais
+interessante para mim
+
+140
+00:06:12,319 --> 00:06:14,230
+não é por que a Apple fez isso,
+
+141
+00:06:14,255 --> 00:06:17,814
+como eu disse anteriormente,
+não é uma situação singular.
+
+142
+00:06:17,839 --> 00:06:19,582
+Mas, em vez disso,
+por que eles escolheram
+
+143
+00:06:19,607 --> 00:06:21,807
+um símbolo de status do acessório Mac
+
+144
+00:06:21,832 --> 00:06:24,076
+em vez de um iPhone dourado
+ou algo assim.
+
+145
+00:06:24,101 --> 00:06:26,170
+Depois de pensar um pouco no banho,
+
+146
+00:06:26,195 --> 00:06:27,920
+o melhor palpite que eu pude fazer
+
+147
+00:06:27,920 --> 00:06:29,891
+foi que eles não estavam tão preocupados
+
+148
+00:06:29,891 --> 00:06:32,439
+em irritar a comunidade
+Mac quanto a do iPhone.
+
+149
+00:06:32,439 --> 00:06:34,250
+Ela é menor por um lado
+
+150
+00:06:34,250 --> 00:06:37,737
+e já sofreu tanto nos últimos 10 anos
+
+151
+00:06:37,762 --> 00:06:41,829
+que o que é mais um ou dois insultos?
+
+152
+00:06:41,829 --> 00:06:43,689
+E isso seria completamente consistente
+
+153
+00:06:43,689 --> 00:06:45,899
+com a atitude deles em relação
+ao Mac Pro até agora.
+
+154
+00:06:45,899 --> 00:06:48,598
+Depois da lixeira,
+a Apple obviamente pensou
+
+155
+00:06:48,623 --> 00:06:51,389
+que o celular iria assumir
+o controle completamente
+
+156
+00:06:51,389 --> 00:06:53,964
+e eles nunca precisariam
+criar outro Mac Pro,
+
+157
+00:06:53,989 --> 00:06:56,064
+até que o celular não assumisse o controle
+
+158
+00:06:56,089 --> 00:06:58,044
+e as pessoas ainda
+precisassem de computadores
+
+159
+00:06:58,069 --> 00:07:00,039
+e finalmente cederam à pressão,
+
+160
+00:07:00,040 --> 00:07:01,689
+mas eles fizeram nos seus termos.
+
+161
+00:07:01,689 --> 00:07:03,054
+Como discutimos em nossa análise,
+
+162
+00:07:03,079 --> 00:07:04,810
+eles não fizeram nenhum esforço
+
+163
+00:07:04,810 --> 00:07:06,300
+para tornar o novo ralador de queijo
+
+164
+00:07:06,300 --> 00:07:08,100
+no "o Mac que você teria em sua casa",
+
+165
+00:07:08,100 --> 00:07:10,200
+como o G5 era antes dele.
+
+166
+00:07:10,199 --> 00:07:12,706
+É como "Está Lá, ta certo,
+
+167
+00:07:12,706 --> 00:07:16,796
+nós fizemos isso para você.
+estou feliz que acabou, Deus."
+
+168
+00:07:16,797 --> 00:07:20,100
+"Agora podemos voltar a vender
+produtos como os AirPods".
+
+169
+00:07:20,100 --> 00:07:23,129
+Fora de um subconjunto muito
+pequeno de usuários leais,
+
+170
+00:07:23,129 --> 00:07:24,899
+com grandes orçamentos de Hollywood,
+
+171
+00:07:24,899 --> 00:07:26,739
+financiando suas despesas,
+
+172
+00:07:26,740 --> 00:07:30,160
+a Apple, com razão,
+parece ver o Mac Pro 2019
+
+173
+00:07:30,185 --> 00:07:32,144
+como um luxo desnecessário
+
+174
+00:07:32,169 --> 00:07:34,419
+no qual eles podem sacrificar
+o volume de vendas,
+
+175
+00:07:34,444 --> 00:07:37,980
+a fim de manter a ilusão de que eles
+são uma marca de luxo
+
+176
+00:07:37,980 --> 00:07:40,802
+quando, na verdade, são uma marca
+de eletrônicos de consumo,
+
+177
+00:07:40,827 --> 00:07:42,804
+porque é isso que são.
+
+178
+00:07:42,829 --> 00:07:45,794
+Novamente, eu sei
+que o material deles é caro,
+
+179
+00:07:45,819 --> 00:07:48,292
+mas, por outro lado,
+o preço das coisas
+
+180
+00:07:48,317 --> 00:07:50,044
+que alguém realmente precisa,
+
+181
+00:07:50,069 --> 00:07:52,800
+como uma maneira de ouvir
+música em seu iPhone,
+
+182
+00:07:52,825 --> 00:07:54,934
+agora que ele não tem
+um conector de fone de ouvido,
+
+183
+00:07:54,959 --> 00:07:58,000
+não é tão desapegado da realidade.
+
+184
+00:07:58,000 --> 00:08:00,319
+Sim, eles visam o premium do mercado
+
+185
+00:08:00,319 --> 00:08:01,800
+e existe um imposto da Apple,
+
+186
+00:08:01,825 --> 00:08:04,277
+mas suas margens brutas
+são informações públicas
+
+187
+00:08:04,302 --> 00:08:07,348
+e ganham apenas 38%.
+
+188
+00:08:07,373 --> 00:08:08,924
+Eles não estão vendendo seus produtos
+
+189
+00:08:08,949 --> 00:08:11,902
+tanto quanto as marcas de luxo reais,
+
+190
+00:08:11,927 --> 00:08:13,950
+ou mesmo outras empresas
+de hardware de tecnologia
+
+191
+00:08:13,975 --> 00:08:16,610
+e não estão nem perto
+das margens de lucro
+
+192
+00:08:16,610 --> 00:08:18,977
+de gigantes de software,
+como Oracle ou Facebook.
+
+193
+00:08:19,002 --> 00:08:20,539
+Enfim, o objetivo de todos nós
+
+194
+00:08:20,564 --> 00:08:23,244
+não era criticar Sr.Spence, Forbes
+
+195
+00:08:23,269 --> 00:08:25,349
+ou qualquer outra pessoa
+cujo trabalho é cobrir
+
+196
+00:08:25,350 --> 00:08:27,141
+a indústria de eletrônicos de consumo,
+
+197
+00:08:27,166 --> 00:08:30,218
+ou mesmo a Apple, apenas
+ajudar as pessoas a entender
+
+198
+00:08:30,243 --> 00:08:31,645
+por que isso continua acontecendo
+
+199
+00:08:31,670 --> 00:08:34,820
+para que eles possam tomar
+uma decisão instruída
+
+200
+00:08:34,845 --> 00:08:39,415
+se desejam enviar aquele tweet
+raivoso sobre rodas caras,
+
+201
+00:08:39,440 --> 00:08:42,460
+ou talvez simplesmente
+fazer o que é realmente
+
+202
+00:08:42,460 --> 00:08:44,444
+a coisa mais destrutiva
+que eles podem fazer
+
+203
+00:08:44,469 --> 00:08:47,284
+aos negócios da Apple
+e fingir completamente
+
+204
+00:08:47,309 --> 00:08:48,899
+que eles não existem.
+
+205
+00:08:48,899 --> 00:08:51,509
+Falando em existir, o Squarespace
+é uma ótima maneira
+
+206
+00:08:51,509 --> 00:08:54,269
+de garantir que as pessoas
+saibam que você existe.
+
+207
+00:08:54,269 --> 00:08:56,850
+O Squarespace é a maneira
+mais fácil de criar um site
+
+208
+00:08:56,875 --> 00:08:58,421
+em questão de minutos.
+
+209
+00:08:58,446 --> 00:09:00,009
+Eles são líderes em design de sites
+
+210
+00:09:00,009 --> 00:09:03,030
+e sua plataforma multifuncional
+torna qualquer um capaz
+
+211
+00:09:03,055 --> 00:09:05,286
+de criar um site no Squarespace.
+
+212
+00:09:05,311 --> 00:09:06,833
+Você pode comprar domínios a partir deles,
+
+213
+00:09:06,858 --> 00:09:08,659
+criar campanhas de email,
+
+214
+00:09:08,684 --> 00:09:11,025
+configurar um portfólio ou currículo,
+
+215
+00:09:11,050 --> 00:09:13,295
+pode manter um site de ficção de fãs,
+
+216
+00:09:13,320 --> 00:09:14,979
+embora eu não esteja dando ideias
+
+217
+00:09:14,980 --> 00:09:17,501
+e até vender produtos online.
+
+218
+00:09:17,526 --> 00:09:19,149
+Têm ferramentas de análise de sites
+
+219
+00:09:19,149 --> 00:09:21,360
+para ajudá-lo a acompanhar
+o desempenho do seu site
+
+220
+00:09:21,360 --> 00:09:22,669
+e encontrar todas as áreas deficientes
+
+221
+00:09:22,669 --> 00:09:24,849
+para garantir um fluxo
+constante de tráfego.
+
+222
+00:09:24,850 --> 00:09:27,715
+E seus modelos premiados
+ajudarão a destacar seu site
+
+223
+00:09:27,740 --> 00:09:29,799
+em vez de parecer que é dos anos 90.
+
+224
+00:09:29,799 --> 00:09:32,066
+Os sites acessíveis
+do Linus Media Group e do LTX
+
+225
+00:09:32,091 --> 00:09:33,943
+foram construídos rapidamente
+usando o Squarespace
+
+226
+00:09:33,943 --> 00:09:35,980
+e, se você ficar preso, eles têm
+suporte 24 horas por dia,
+
+227
+00:09:36,005 --> 00:09:37,264
+pronto para ajudá-lo.
+
+228
+00:09:37,264 --> 00:09:40,629
+Acesse squarespace.com/ltt
+para uma avaliação gratuita,
+
+229
+00:09:40,629 --> 00:09:41,798
+quando estiver pronto para o lançamento,
+
+230
+00:09:41,798 --> 00:09:44,099
+você poderá obter 10%
+de desconto no link abaixo.
+
+231
+00:09:44,124 --> 00:09:46,126
+Obrigado por assistir.
+Se gostou deste vídeo,
+
+232
+00:09:46,151 --> 00:09:49,277
+confira um em que participamos totalmente
+
+233
+00:09:49,302 --> 00:09:51,421
+de tudo isso e fizemos
+um vídeo sobre...
+
+234
+00:09:51,446 --> 00:09:53,390
+como era chamado,
+TableBook,
+
+235
+00:09:54,435 --> 00:09:56,483
+foi um vídeo divertido
+de se fazer.
+
+236
+00:09:56,491 --> 00:09:59,372
+Nós lançamos isso juntos
+em uma tarde.
+
+237
+00:09:59,397 --> 00:10:01,522
+Olá, meus filhos, o que
+posso fazer por vocês?
+
+238
+00:10:01,547 --> 00:10:03,079
+Recesso acabou?
+Ta certo.
+
+239
+00:10:03,104 --> 00:10:04,785
+- Se quiser, pode demorar um pouco mais.
+
+240
+00:10:04,825 --> 00:10:06,563
+- Eu tenho que ensinar
+os meus filhos.
+
