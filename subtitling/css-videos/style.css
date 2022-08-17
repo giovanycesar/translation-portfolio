@@ -169,14 +169,6 @@ input {
     margin: 8px auto;
 }
 
-.texts-theme p {
-    color: #5a5a5a;
-    font-family: Arial,Helvetica,sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    text-align: center;
-}
-
 .videos {
     background-color: #E4EDF5;
     text-align: center;
@@ -192,10 +184,13 @@ input {
     font-weight: 700;
     letter-spacing: .1em;
     color: #3ebcfe;
+    padding: 0px 20px;
+    max-width: 910px;
+    margin: 0 auto;
 }
 
 video {
-    max-width: 900px;
+    max-width: 910px;
     padding-top: 20px;
 }
 
@@ -377,5 +372,17 @@ footer p {
     }
     .width-2 {
         margin: 0px 5px;
+    }
+}
+
+@media (max-width: 1000px) {
+    video {
+        max-width: 600px;
+    }
+}
+
+@media (max-width: 700px) {
+    video {
+        max-width: 440px;
     }
 }
