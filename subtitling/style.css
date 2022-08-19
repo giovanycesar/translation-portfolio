@@ -390,3 +390,13 @@ footer p {
         margin: 0px 5px;
     }
 }
+
+
+@media (max-width: 350px) {
+    .videos-items {
+        width: 270px;
+    }
+    .videos-items img {
+        width: 270px;
+    }
+}
