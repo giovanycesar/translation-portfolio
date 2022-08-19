@@ -373,9 +373,7 @@ footer p {
     .width-2 {
         margin: 0px 5px;
     }
-}
 
-@media (max-width: 1000px) {
     video {
         max-width: 600px;
     }
@@ -384,5 +382,11 @@ footer p {
 @media (max-width: 700px) {
     video {
         max-width: 440px;
+    }
+}
+
+@media (max-width: 480px) {
+    video {
+        max-width: 280px;
     }
 }
