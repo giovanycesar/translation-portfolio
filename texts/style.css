@@ -342,6 +342,14 @@ footer p {
     text-align: center;
 }
 
+@media (max-width: 600px) {
+    .texts-cont {
+        margin: 10px 22px;
+        min-height: 150px;
+        max-width: 390px;
+    }
+}
+
 @media (max-width: 650px) {
     .check img {
         padding: 20px 60px;
@@ -431,14 +439,6 @@ footer p {
 
     .menu-nav-sub a:hover {
         color: #3ebcfe !important;
-    }
-}
-
-@media (max-width: 600px) {
-    .texts-cont {
-        margin: 10px 22px;
-        min-height: 150px;
-        max-width: 390px;
     }
 }
 
