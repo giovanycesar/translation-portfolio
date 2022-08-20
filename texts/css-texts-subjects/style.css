@@ -338,7 +338,7 @@ footer p {
         border-bottom: 1px solid white;
     }
     label[for="menu-bt"] {
-        display: block;
+        display: inline-block !important;
         margin-right: 20px;
     }
 
