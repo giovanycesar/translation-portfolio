@@ -342,7 +342,7 @@ footer p {
     text-align: center;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
     .check img {
         padding: 20px 60px;
     }
@@ -436,7 +436,7 @@ footer p {
 
 @media (max-width: 600px) {
     .texts-cont {
-        margin: 10px 15px;
+        margin: 10px 22px;
         min-height: 150px;
         max-width: 390px;
     }
