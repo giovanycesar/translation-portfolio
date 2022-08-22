@@ -115,7 +115,7 @@ ul {
 }
 
 label[for="menu-bt"] {
-    padding: 10px 5px 5px 5px;
+    padding: 4px 3px 2px 3px;
     background-color: #353535;
     color: white;
     text-align: center;
@@ -130,6 +130,7 @@ label[for="menu-bt"] {
 
 label[for="menu-texts-bt"] {
     display: none;
+    padding: 0px 2px;
 }
 
 label[for="menu-texts-bt"] {
