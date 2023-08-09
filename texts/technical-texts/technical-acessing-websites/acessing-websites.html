@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accessing Websites on a Local Network (LAN) Web Server</title>
+    <link rel="shortcut icon" href="../../../imagens/imagens-logo/faviconV2.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
+    <link rel="stylesheet" href="../../css-texts-subjects/style.css">
+</head>
+<body>
+    
+    <header>
+        <div class="menu">
+            
+            <a href="../../../index.html" class="menu-img"><img src="../../../imagens/imagens-logo/giologo.png" alt="Giovany Almeida"></a> 
+
+            <input type="checkbox" id="menu-bt">
+            <label for="menu-bt">&#9776;</label>
+            
+
+            <nav class="menu-nav">
+                <ul class="menu-nav-mainul">
+                    <li class="menu-nav-main menu-nav-texts"><a href="../../../index.html">Translation</a>
+
+                        <input type="checkbox" id="menu-texts-bt">
+                        <label for="menu-texts-bt">▼</label>
+                        
+                       <ul class="menu-nav-subul">
+                            <li class="menu-nav-sub"><a href="../technical.html">Technical</a></li>
+                            <li class="menu-nav-sub"><a href="../../business-texts/business.html">Business</a></li>
+                            <li class="menu-nav-sub"><a href="../../marketing-texts/marketing.html">Marketing</a></li>
+                            <li class="menu-nav-sub"><a href="../../finance-texts/finance.html">Finance</a></li>
+                            <li class="menu-nav-sub"><a href="../../travel-and-tourism-texts/travel-and-tourism.html">Travel And<br>Tourism</a></li>
+                            <li class="menu-nav-sub"><a href="../../public-relations-texts/public-relations.html">Public <br>Relations</a></li>
+                            <li class="menu-nav-sub"><a href="../../human-resources-texts/human-resources.html">Human <br>Resources</a></li>
+                       </ul>
+                    </li>
+
+                    <li class="menu-nav-main"><a href="../../../subtitling/subtitling.html">Subtitling</a></li>
+
+                    <li class="menu-nav-main"><a href="../../../about/about.html">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="texts-theme" data-aos="fade-down">
+        <h1>Translation</h1>
+    </section>
+
+    <section class="texts-main" data-aos="fade-right">
+        <div class="texts-main-container">
+            <div class="texts-main-info">
+                <div class="texts-border-theme">
+                    <h1>Accessing Websites on a Local Network (LAN) Web Server</h1>
+                    <h2>Acesso a Websites em um Servidor Web na Rede Local (LAN)</h2>
+                </div>
+                <table>
+                    <tr>
+                        <td class="texts-border texts-language">English</td>
+                        <td class="texts-language">Portuguese</td>
+                    </tr>
+                    <tr>
+                        <td class="texts-border">There are a number of different ways that local websites can be viewed from other computers (running Windows, Mac OS X, Linux) and mobile devices (iPads, iPhones, Android phones, etc), that are all connected within the same LAN (local network).</td>
+                        <td>Existem várias maneiras diferentes de visualizar sites locais a partir de outros computadores (executando Windows, Mac OS X, Linux) e dispositivos móveis (iPads, iPhones, celulares Android, etc) conectados à mesma LAN (rede local).</td>
+                    </tr>
+                    <tr>
+                        <td class="texts-border">To get every LAN connected computer and mobile device to find and connect to a local website, you have these options:</td>
+                        <td>Para fazer com que todos os computadores e dispositivos móveis conectados à LAN encontrem e se conectem a um site local, você tem as seguintes opções:</td>
+                    </tr>
+                    <tr>
+                        <td class="texts-border"><strong>Use the LAN IP of Server</strong></td>
+                        <td><strong>Use o IP da LAN do servidor:</strong></td>
+                    </tr>
+                    <tr>
+                        <td class="texts-border">Connect directly to the server via its LAN IP address, using that IP in the URL: http://192.168.1.100</td>
+                        <td>Conecte-se diretamente ao servidor usando o endereço IP da LAN, utilizando o IP na URL: http://192.168.1.100</td>
+                    </tr>
+                    <tr>
+                        <td class="texts-border">For this to work, the LAN IP address must be assigned as one of the website’s Domain Aliases, and all redirects from Aliases to the Primary Domain Name must be turned off.</td>
+                        <td>Para isso funcionar, o endereço IP da LAN deve ser atribuído como um dos aliases de domínio do site, e todos os redirecionamentos de aliases para o nome de domínio principal devem estar desativados.</td>
+                    </tr>
+                    <tr>
+                        <td class="texts-border">Downside – as only 1 IP address is assigned per NIC (network card), only 1 website can be accessed.</td>
+                        <td>Desvantagem: como apenas 1 endereço IP é atribuído por NIC (placa de rede), apenas 1 site pode ser acessado.</td>
+                    </tr>
+                    <tr>
+                        <td class="texts-border"><strong>Use the LAN host-name of Server</strong></td>
+                        <td><strong>Use o nome do host da LAN do servidor:</strong></td>
+                    </tr>
+                
+                    <tr>
+                        <td class="texts-border">Connect to the server via its LAN host-name (computer name), using that host-name in the URL: http://computer-name</td>
+                        <td>Conecte-se ao servidor usando o nome do host da LAN (nome do computador), utilizando o nome do host na URL: http://nome-do-computador</td>
+                    </tr>
+                    <tr>
+                        <td class="texts-border">For this to work, the LAN host-name must be assigned as one of the website’s Domain Aliases, and all redirects from Aliases to the Primary Domain Name must be turned off.</td>
+                        <td>Para isso funcionar, o nome do host da LAN deve ser atribuído como um dos aliases do domínio do site, e todos os redirecionamentos de aliases para o nome de domínio principal devem estar desativados.</td>
+                    </tr>
+                    <tr>
+                        <td class="texts-border">Downside – as only 1 host-name (computer name) is assigned per computer, only 1 website can be accessed. Also, there might be issues with some non-Windows devices, such as the iPad, which either don’t inter-operate (work with) WINS and NetBIOS or require further configuration.</td>
+                        <td>Desvantagem: como apenas 1 nome de host (nome do computador) é atribuído por computador, apenas 1 site pode ser acessado. Além disso, pode haver problemas com alguns dispositivos não-Windows, como o iPad, que não interagem com WINS e NetBIOS ou requerem configuração adicional.</td>
+                    </tr>
+                    <tr>
+                        <td class="texts-border"><strong>Use a LAN-wide Hosts file Set Up</strong></td>
+                        <td><strong>Use um arquivo hosts configurado para toda a LAN</strong></td>
+                    </tr>
+                    <tr>
+                        <td class="texts-border">Connect to the server by using LAN-wide (global) Hosts files...</td>
+                        <td>Conecte-se ao servidor usando um arquivo hosts configurado para toda a LAN...</td>
+                    </tr>
+                    <tr>
+                        <td class="texts-border">This is done by editing every LAN systems’ Hosts file with entries that resolve each and every website’s domain-name and aliases to the LAN IP of the server:</td>
+                        <td>Isso é feito editando o arquivo hosts de todos os sistemas da LAN com entradas que resolvem o nome de domínio e os aliases de cada site para o IP da LAN do servidor:</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">192.168.1.100 www.domain1.name domain1.alias1 domain1.alias2</td>
+                        <td>192.168.1.100 www.dominio1.nome dominio1.alias1 dominio1.alias2</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">192.168.1.100 www.domain2.name domain2.alias1 domain2.alias2</td>
+                        <td>192.168.1.100 www.dominio2.nome dominio2.alias1 dominio2.alias2</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">192.168.1.100 www.domain3.name domain3.alias1 domain3.alias2</td>
+                        <td>192.168.1.100 www.dominio3.nome dominio3.alias1 dominio3.alias2</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">This way all the other LAN systems know to which IP address to send the request to when the www.domain.name is used in the local Browser.</td>
+                        <td>Desta forma, todos os outros sistemas da LAN saberão para qual endereço IP enviar a solicitação quando www.nome.de.dominio for usado no navegador local.</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">Downside – while this will work on Windows, Linux, and Mac OS X, this will not work on most mobile devices unless they are jail-broken / rooted (as you can’t edit their Hosts file).</td>
+                        <td>Desvantagem: embora isso funcione no Windows, Linux e Mac OS X, isso não funcionará na maioria dos dispositivos móveis, a menos que estejam desbloqueados / com acesso root (pois você não pode editar seu arquivo hosts).</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">Hosts file path: C:\Windows\system32\drivers\etc\hosts</td>
+                        <td>Caminho do arquivo hosts: C:\Windows\system32\drivers\etc\hosts</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border"><strong>Use Registered Domain Names</strong></td>
+                        <td><strong>Use nomes de domínio registrados:</strong></td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">Connect via any website’s domain-name, as long as that domain-name is:</td>
+                        <td>Conecte-se através de qualquer nome de domínio do site, desde que esse nome de domínio esteja:</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">• Registered (bought and paid for on Namecheap, GoDaddy, etc)</td>
+                        <td>• Registrado (comprado e pago na Namecheap, GoDaddy, etc.)</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">• And has a DNS “A” record set (resolved) to either the LAN IP of the server (ex: 192.168.1.100) or the Public IP of the Router (via the domain Registrar’s DNS servers).</td>
+                        <td>• E tenha um registro DNS "A" configurado (resolvido) para o IP da LAN do servidor (ex: 192.168.1.100) ou o IP público do roteador (por meio dos servidores DNS do registrador de domínio).</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">* It’s perfectly valid to resolve a domain-name to a local LAN IP address.</td>
+                        <td>* É perfeitamente válido resolver um nome de domínio para um endereço IP local da LAN.</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">If you only have 1 registered domain name, you can use its sub-domains to represent your different local websites, by using a wild-card (*) / catch-all DNS record. This way all *.domain.name requests, regardless of what they are, will always be resolved to your LAN IP or Public IP. And once that request reaches your web server, the web server will match the sub.domain.name to the proper website. The downside of this is that every website’s domain-name must use a common base (which can make the full address long).</td>
+                        <td>Se você tiver apenas 1 nome de domínio registrado, pode usar seus subdomínios para representar seus diferentes sites locais, usando um registro DNS com wild-card (*). Dessa forma, todas as solicitações *.nome.de.dominio, independentemente de qual sejam, serão sempre resolvidas para o IP da sua LAN ou IP público. E, uma vez que essa solicitação chega ao seu servidor web, o servidor web irá corresponder o nome.de.sub.dominio ao site correto. A desvantagem disso é que todos os nomes de domínio do site devem usar uma base comum (o que pode tornar o endereço completo longo).</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border"><strong>Use a WiFi Router that’s capable of DNS Masquerading</strong></td>
+                        <td><strong>Use um roteador Wi-Fi com capacidade de mascaramento DNS:</strong></td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">Some Routers are supported by 3rd-party firmware such as the OpenWRT and DD-WRT (2) projects.</td>
+                        <td>Alguns roteadores são compatíveis com firmware de terceiros, como os projetos OpenWRT e DD-WRT (2).</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">Both OpenWRT and DD-WRT are able to inject custom domain-name to IP address resolves via their own internal Hosts files and/or internal bundled DNS Masquerading software such as DNSmasq.</td>
+                        <td>Tanto o OpenWRT quanto o DD-WRT são capazes de injetar resoluções personalizadas de nome de domínio para endereço IP por meio de seus próprios arquivos hosts internos e/ou software interno de mascaramento DNS, como o DNSmasq.</td>
+                    </tr>
+
+                    <tr>
+                        <td class="texts-border">This is probably the best option as ALL WiFi connected computers (regardless of OS) and mobile devices (everything from iPads to Android phones) will be able to connect to each and every website… Without configuring anything or doing anything to those computers and devices.</td>
+                        <td>Essa provavelmente é a melhor opção, pois todos os computadores conectados ao Wi-Fi (independentemente do sistema operacional) e dispositivos móveis (desde iPads até celulares Android) poderão se conectar a cada site... sem configurar nada ou fazer qualquer coisa nesses computadores e dispositivos.</td>
+                    </tr>
+
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact-media">
+        <div class="contact-info">
+            <div class="width-1">
+                <h3 class="contact-subtheme">LANGUAGE TRANSLATION SERVICES</h3>
+                <p>"The art of communication is not just about knowing how to speak and write, but mainly about knowing how to make yourself understood!" - Gutemberg Land</p>
+            </div>
+            <div class="width-2">
+                <h3 class="contact-subtheme">CONTACT</h3>
+                <p>giovanyalmeida.translator<br>@gmail.com</p>
+            </div>
+            <div class="width-2">
+                <h3 class="contact-subtheme">FIND ME ON</h3>
+                <a href="https://www.linkedin.com/in/giovany-almeida-1197691ba/" target="_blank"><img src="../../../imagens/imagens-contato/linkedin.png" alt=""></a>
+                <a href="https://www.proz.com/translator/2655736" target="_blank"><img src="../../../imagens/imagens-contato/proz.png" alt=""></a>
+                <a href="mailto:giovanyalmeida.translator@gmail.com" target="_blank"><img src="../../../imagens/imagens-contato/email.png" alt=""></a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div>
+            <p>Giovany Almeida - Translator</p>
+        </div>
+    </footer>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            duration: 1000,
+            once: true,
+        });
+    </script>
+</body>
+</html>
